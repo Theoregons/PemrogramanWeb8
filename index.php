@@ -1,17 +1,9 @@
 <?php 
-    // $nama = "Baktiar";
+    $nama_depan = "Baktiar";
+    $nama_belakang = "Mahardika";
 
-    // echo "Hallo, Selamat Datang $nama </br>";
-    // echo 'Hallo, Selamat Datang $nama';
-
-    $x = 10;
-    $y = 20;
-    echo $x + $y . "</br>";
-    echo $x - $y . "</br>";
-    echo $x * $y . "</br>";
-    echo $x / $y . "</br>";
-    echo $x % $y . "</br>";
-
+    echo $nama_depan . " " . $nama_belakang;
+  
 ?>
 <!DOCTYPE html>
 <html lang="en">
