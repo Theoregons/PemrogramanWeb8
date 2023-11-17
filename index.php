@@ -1,3 +1,6 @@
+<?php 
+    $nama = "Baktiar";
+?>
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -7,7 +10,7 @@
 </head>
 <body>
    
-    <?= "<h1>Selamat Datang, Baktiar Mahardika</h1>" ?>
+   <h1>Hallo, Selamat Datang <?= $nama; ?></h1>
    
 </body>
 </html>
