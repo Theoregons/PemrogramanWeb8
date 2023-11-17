@@ -6,8 +6,8 @@
     <title>Belajar PHP</title>
 </head>
 <body>
-    <h1>
-        Selamat Datang <?= "Baktiar Mahardika" ?>
-    </h1>
+   
+    <?= "<h1>Selamat Datang, Baktiar Mahardika</h1>" ?>
+   
 </body>
 </html>
